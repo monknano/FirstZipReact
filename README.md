@@ -1,2 +1,0 @@
-# FirstZipReact
-Created with CodeSandbox
